@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="province">
+        <item>Select Your Province</item>
+        <item>Westsern Province</item>
+        <item>Central Province</item>
+        <item>Eastern Province </item>
+        <item>North Western Province</item>
+        <item>Northern Province</item>
+        <item>Sabaragamuwa Province</item>
+        <item>Uva Province</item>
+        <item>Southern Province</item>
+        <item>North Central Province</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ShareTaxi</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email</string>
+    <string name="register">Register</string>
+    <string name="login_label">Login</string>
+    <string name="empty_email">Email Field is Empty</string>
+    <string name="empty_password">Password Field is Empty</string>
+    <string name="invalid_email">Please Enter a Valid Email Address</string>
+    <string name="invalid_password">Your Password is too short ! </string>
+    <string name="already_registered">This Email is Already Registered !</string>
+    <string name="title_activity_finish_registration">FinishRegistration</string>
+    <string name="fname_label">First Name</string>
+    <string name="lname_label">Last Name</string>
+    <string name="complete_Registration">Thank you for Sign up ! \nWe need few more details to finalize your Registration.</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="vehicle_status_label">I have a Vehicle</string>
+    <string name="vehicle_label">Brand and Model of Your vehicle(s)</string>
+    <string name="i_agree">I agree to the terms and condtions</string>
+    <string name="complete_reg">Complete Registration</string>
+    <string name="looking_for">is looking for a lift.</string>
+    <string name="looking_for_pas">is Looking for a Passenger</string>
+    <string name="looking_for_taxi">is like to share a Taxi</string>
+
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="on">On</string>
+    <string name="at">at</string>
+    <string name="description_fiind_match">If you cant Find what you\'re looking for you can search or  post your own trip.</string>
+    <string name="title_activity_fnd_match">FndMatch</string>
+    <string name="title_activity_trip_view">Map</string>
+    <string name="bottomSheetTitle">Join This Trip</string>
+
+</resources>
